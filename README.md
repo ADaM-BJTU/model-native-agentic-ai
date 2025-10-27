@@ -77,7 +77,7 @@ models that grow intelligence through experience.
 |  :---------: |   :---:   |   :--:  |  :---------------: |
 |   STRIPS  |  [Strips: A new approach to the application of theorem proving to problem solving](https://www.sciencedirect.com/science/article/pii/0004370271900105)  |  1971  | - |
 |   PDDL  |  [PDDL - The Planning Domain Definition Language](https://www.cs.cmu.edu/~mmv/planning/readings/98aips-PDDL.pdf)  |  1998  | - |
-|   LLM+P  |  [{LLM+P: Empowering Large Language Models with Optimal Planning Proficiency](https://arxiv.org/abs/2304.11477)  |  2023-04  | [GitHub](https://github.com/Cranial-XIX/llm-pddl) ![Stars](https://img.shields.io/github/stars/Cranial-XIX/llm-pddl) |
+|   LLM+P  |  [LLM+P: Empowering Large Language Models with Optimal Planning Proficiency](https://arxiv.org/abs/2304.11477)  |  2023-04  | [GitHub](https://github.com/Cranial-XIX/llm-pddl) ![Stars](https://img.shields.io/github/stars/Cranial-XIX/llm-pddl) |
 |   LLM+PDDL  |  [Leveraging pre-trained large language models to construct and utilize world models for model-based task planning](https://arxiv.org/abs/2305.14909)  |  2023-05  | [GitHub](https://github.com/GuanSuns/LLMs-World-Models-for-Planning) ![Stars](https://img.shields.io/github/stars/GuanSuns/LLMs-World-Models-for-Planning) |
 |   CoT  |  [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)  |  2022-01  | - |
 |   ToT  |  [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/pdf/2305.10601)  |  2023-05  | [GitHub](https://github.com/princeton-nlp/tree-of-thought-llm) ![Stars](https://img.shields.io/github/stars/princeton-nlp/tree-of-thought-llm) |
