@@ -284,7 +284,7 @@ models that grow intelligence through experience.
 
 |  Short Name  |   Paper   |   Date  |  Code/Project Link |
 |  :---------: |   :---:   |   :--:  |  :---------------: |
-|   Query2doc  |  [Query2doc: Query expansion with large language models](https://arxiv.org/abs/2303.07678)  |  2023-03  | [GitHub](https://github.com/xbmxb/RAG-query-rewriting) ![Stars](https://img.shields.io/github/stars/xbmxb/RAG-query-rewriting) [Huggingface](https://huggingface.co/datasets/intfloat/query2doc_msmarco)|
+|   Query2doc  |  [Query2doc: Query expansion with large language models](https://arxiv.org/abs/2303.07678)  |  2023-03  | [Huggingface](https://huggingface.co/datasets/intfloat/query2doc_msmarco)|
 |   Query Rewriting  |  [Query rewriting in retrieval-augmented large language models](https://aclanthology.org/2023.emnlp-main.322)  |  2023-05  | [GitHub](https://github.com/xbmxb/RAG-query-rewriting) ![Stars](https://img.shields.io/github/stars/xbmxb/RAG-query-rewriting) |
 |   RECOMP  |  [Recomp: Improving retrieval-augmented lms with compression and selective augmentation](https://arxiv.org/abs/2310.04408)  |  2023-10  | [GitHub](https://github.com/carriex/recomp) ![Stars](https://img.shields.io/github/stars/carriex/recomp) |
 |   LongLLMLingua  |  [Longllmlingua: Accelerating and enhancing llms in long context scenarios via prompt compression](https://arxiv.org/abs/2310.06839)  |  2023-10  | [GitHub](https://github.com/microsoft/LLMLingua) ![Stars](https://img.shields.io/github/stars/microsoft/LLMLingua) |
