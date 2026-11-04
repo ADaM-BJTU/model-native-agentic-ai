@@ -193,6 +193,7 @@ models that grow intelligence through experience.
 |   FunRL  |  [Exploring Superior Function Calls via Reinforcement Learning](https://arxiv.org/abs/2508.05118)  |  2025-08  | [GitHub](https://github.com/BingguangHao/RLFC) ![Stars](https://img.shields.io/github/stars/BingguangHao/RLFC) |
 |   rStar2-Agent  |  [rStar2-Agent: Agentic Reasoning Technical Report](https://arxiv.org/abs/2508.20722)  |  2025-08  | [GitHub](https://github.com/microsoft/rStar) ![Stars](https://img.shields.io/github/stars/microsoft/rStar) |
 |   ASearcher  |  [Unlocking Long-Horizon Agentic Search with Large-Scale Asynchronous Reinforcement Learning](https://arxiv.org/abs/2508.07976)  |  2025-08  | [GitHub](https://github.com/inclusionAI/ASearcher) ![Stars](https://img.shields.io/github/stars/inclusionAI/ASearcher) |
+|   ToolMaster  |  [Teaching LLMs to Learn Tool Trialing and Execution through Environment Interaction](https://arxiv.org/abs/2601.12762)  |  2026-01  | [GitHub](https://github.com/NEUIR/ToolMaster) ![Stars](https://img.shields.io/github/stars/NEUIR/ToolMaster) |
 
 ## ➤ 5&nbsp;&nbsp;Core Capabilities: Memory
 
