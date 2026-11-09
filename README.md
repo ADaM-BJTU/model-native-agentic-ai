@@ -391,6 +391,7 @@ models that grow intelligence through experience.
 |   ARG-Designer  |  [Assemble Your Crew: Automatic Multi-agent Communication Topology Design via Autoregressive Graph Generation](https://arxiv.org/pdf/2507.18224v1)  |  2025-07  | [GitHub](https://github.com/Shiy-Li/ARG-Designer) ![Stars](https://img.shields.io/github/stars/Shiy-Li/ARG-Designer) |
 |   MAGDi  |  [MAGDi: Structured Distillation of Multi-Agent Interaction Graphs Improves Reasoning in Smaller Language Models](https://github.com/dinobby/MAGDi)  |  2024-02  | [GitHub](https://github.com/dinobby/MAGDi) ![Stars](https://img.shields.io/github/stars/dinobby/MAGDi) |
 |   CoA  |  [Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL](https://arxiv.org/pdf/2508.13167)  |  2025-08  | [GitHub](https://github.com/OPPO-PersonalAI/Agent_Foundation_Models) ![Stars](https://img.shields.io/github/stars/OPPO-PersonalAI/Agent_Foundation_Models) |
+|   NeuroMAS  |  [NeuroMAS: Multi-Agent Systems as Neural Networks with Joint Reinforcement Learning](https://arxiv.org/abs/2605.16757)  |  2026-05  | [GitHub](https://github.com/haoranlustat/NeuroMAS) ![Stars](https://img.shields.io/github/stars/haoranlustat/NeuroMAS) |
 
 ### 7.1.2&nbsp;&nbsp;Emerging Model-native Capabilities: Reflection
 
