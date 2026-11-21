@@ -322,6 +322,7 @@ models that grow intelligence through experience.
 |   MMSearch-R1  |  [MMSearch-R1: Incentivizing LMMs to Search](https://arxiv.org/abs/2506.20670)  |  2025-06  | [GitHub](https://github.com/EvolvingLMMs-Lab/multimodal-search-r1) ![Stars](https://img.shields.io/github/stars/EvolvingLMMs-Lab/multimodal-search-r1) |
 |   WebWatcher  |  [WebWatcher: Breaking New Frontier of Vision-Language Deep Research Agent](https://arxiv.org/abs/2508.05748)  |  2025-09  | [GitHub](https://github.com/Alibaba-NLP/DeepResearch) ![Stars](https://img.shields.io/github/stars/Alibaba-NLP/DeepResearch) |
 |   SFR-DeepResearch  |  [Sfr-deepresearch: Towards effective reinforcement learning for autonomously reasoning single agents](https://arxiv.org/abs/2509.06283)  |  2025-09  | - |
+| MultiAgent-OPD | [MultiAgent-OPD: End-to-End Training of Hierarchical Multi-Agent Systems with On-Policy Distillation](https://arxiv.org/abs/2610.23234) | 2026-10 | [Project](https://sunyuhan19981208.github.io/posts/multiagent-opd/) |
 |   DeepDive  |  [Deepdive: Advancing deep search agents with knowledge graphs and multi-turn rl](https://arxiv.org/abs/2509.10446)  |  2025-09  | [GitHub](https://github.com/THUDM/DeepDive) ![Stars](https://img.shields.io/github/stars/THUDM/DeepDive) |
 |   WebResearcher  |  [WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents](https://arxiv.org/html/2509.13309v1)  |  2025-09  | [GitHub](https://github.com/Alibaba-NLP/DeepResearch/tree/main) ![Stars](https://img.shields.io/github/stars/Alibaba-NLP/DeepResearch) |
 
